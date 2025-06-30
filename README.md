@@ -2,9 +2,10 @@
 
 <Status do projeto: concluído
 
-//
 Para rodar esse projeto em sua máquina, por favor digite:
 
-npm install react   
+```
 
-//
+node app.js   
+
+```
